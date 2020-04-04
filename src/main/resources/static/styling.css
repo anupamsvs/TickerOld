@@ -1,0 +1,11 @@
+.border-3 {
+    border-radius : 1.25rem;
+}
+
+.border-AVAILABLE{
+    card text-right col-sm border-success mb-3 border-3
+}
+
+.border-ENGAGED{
+    card text-right col-sm border-danger mb-3 border-3
+}
